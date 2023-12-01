@@ -1,1 +1,3 @@
-.metals
+.polyglot.*
+target
+.cache
