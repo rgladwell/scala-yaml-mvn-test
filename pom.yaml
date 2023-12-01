@@ -1,0 +1,7 @@
+modelVersion: 4.0.0
+id: me.gladwell:scala-yaml-mvn-test:0.0.1-SNAPSHOT
+dependencies:
+  - org.scala-lang:scala-library:2.13.12
+build:
+  plugins:
+    - net.alchim31.maven:scala-maven-plugin:4.8.1
